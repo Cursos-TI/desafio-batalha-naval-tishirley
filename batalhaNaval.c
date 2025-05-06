@@ -6,9 +6,6 @@ int main() {
   // Criando o Tabuleiro Batalha Naval (Matriz 10x10)
 int tabuleiro [10][10];
 for (int i = 0; i < 10; i++); {
-printf("%c", tabuleiro == linha[10]);
-
-
 }
 
     return 0;
